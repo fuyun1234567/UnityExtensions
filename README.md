@@ -11,3 +11,6 @@ Unity扩增小工具
 
 ## SingletonMono
 monoBehavior单例模式 编辑模式下检测脚本是否多挂载了,确保单例唯一
+
+## FtpClient
+从大佬那里copy的项目中经常使用 原址 https://www.cnblogs.com/wangchuang/p/4749112.html
